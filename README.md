@@ -1,2 +1,7 @@
-# BlinkIT-Grocery-Data-
-📊 Blinkit Sales Dashboard (Excel) 💰 Total Sales: $1.20M | 🛒 Items Sold: 8,523 | ⭐ Avg Rating: 4.0 🏬 Outlet Analysis: Supermarket Type1 leads with $787.5k sales 🥦 Top Categories: Fruits &amp; Vegetables ($178k), Snack Foods ($175k) 📈 Interactive Excel dashboard with KPIs, charts &amp; filters for insights
+🛠 Tools & Techniques Used
+📊 Microsoft Excel – Data cleaning, transformation, and visualization
+📈 Pivot Tables & Pivot Charts – Summarizing and analyzing sales data
+🔍 Slicers & Filters – Interactive exploration of data
+🎨 Conditional Formatting – Highlighting key metrics and trends
+🎯 KPI Metrics – Total Sales, Average Sales, Item Count, Ratings
+📉 Charts & Visuals – Bar Charts, Line Charts, Pie Charts, Trend Analysis
